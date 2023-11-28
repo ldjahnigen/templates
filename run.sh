@@ -1,2 +1,2 @@
-gcc -lstdc++ main.cpp
+gcc -lstdc++ -lm main.cpp
 ./a.out
